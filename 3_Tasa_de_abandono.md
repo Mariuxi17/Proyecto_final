@@ -6,5 +6,6 @@ $\text{TAB}=\tfrac{EstAb_{t,g}}{EstDesc_{t,g}}*100$
 
 Donde:
 
-- Tab: 
-- $EstAb_{t,g}$: 
+- Tab: Tasa de Abandono Escolar
+- $EstAb_{t,g}$: Número de estudiantes que abandonan el grado o curso g en el periodo escolar t.
+- $EstDesc_{t,g}$: Total de estudiantes que registran descomposición de matrícula en el grado o curso g en el periodo escolar t.
