@@ -9,7 +9,7 @@ Donde:
 - Tab: Tasa de Abandono Escolar
 - $EstAb_{t,g}$: Número de estudiantes que abandonan el grado o curso g en el periodo escolar t.
 - $EstDesc_{t,g}$: Total de estudiantes que registran descomposición de matrícula en el grado o curso g en el periodo escolar t.
->>>>>>> ba70fce79e5a8c170f00faa98c3771b32d43a70d
+
 
 ¿Podemos usar la anterior fórmula con la información que recabamos?
 
