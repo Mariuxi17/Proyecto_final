@@ -9,7 +9,8 @@ La educación es un derecho que brinda a las personas herramientas necesarias pa
 
 Es de este modo que los países o instituciones gubernamentales/internacionales analizan la [tasa de abandono](https://github.com/Mariuxi17/Proyecto_final/blob/1303a11e702a4260c49f66c5e2862a155e7bf6bb/3_Tasa_de_abandono.md) para la toma de decisiones.
 
-<<<<<<< HEAD
+## Cambio porcentual en la tasa de abandono escolar
+
 [image](https://github.com/user-attachments/assets/a4a45cc7-7433-497f-b5b1-b255628e2c4a)
 >>>>>>> ba47c2a3e809ecc5091a886980bc826fe670204c
 
@@ -18,3 +19,4 @@ Es de este modo que los países o instituciones gubernamentales/internacionales 
   <img src="https://github.com/user-attachments/assets/343bfcf9-5963-4fed-88f2-cfb4caeca744?raw=true" alt="Sublime's custom image"/>
 </p>
 >>>>>>> 06724c46cf0413bcd4a594ffe8329cc0be55e4c4
+
