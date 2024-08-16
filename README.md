@@ -11,7 +11,7 @@ Es de este modo que los países o instituciones gubernamentales/internacionales 
 
 ## Cambio porcentual en la tasa de abandono escolar
 
-[image](https://github.com/user-attachments/assets/a4a45cc7-7433-497f-b5b1-b255628e2c4a)
+
 
 
 
