@@ -3,5 +3,5 @@ La educación es un derecho que brinda a las personas herramientas necesarias pa
 
 Es de este modo que los países o instituciones gubernamentales/iternacionales analizan la [tasa de abandono](https://github.com/Mariuxi17/Proyecto_final/blob/1303a11e702a4260c49f66c5e2862a155e7bf6bb/3_Tasa_de_abandono.md) para la toma de decisiones.
 
-[!c](https://github.com/user-attachments/assets/a4a45cc7-7433-497f-b5b1-b255628e2c4a)
+![image](https://github.com/user-attachments/assets/a4a45cc7-7433-497f-b5b1-b255628e2c4a)
 
