@@ -7,7 +7,7 @@ La educación es un derecho que brinda a las personas herramientas necesarias pa
 
 [El no aprendizaje en la escuela](Texto.md)
 
-Es de este modo que los países o instituciones gubernamentales/internacionales analizan la [tasa de abandono](https://github.com/Mariuxi17/Proyecto_final/blob/1303a11e702a4260c49f66c5e2862a155e7bf6bb/3_Tasa_de_abandono.md) para la toma de decisiones.
+Es de este modo que los países o instituciones gubernamentales/internacionales analizan la [tasa de abandono](https://github.com/Mariuxi17/Proyecto_final/blob/e3993e45221a90ecb875fcf806c9624acfeeb4c4/3_Tasa_de_abandono.md) para la toma de decisiones.
 
 ## Cambio porcentual en la tasa de abandono escolar
 
