@@ -6,7 +6,3 @@ Es de este modo que los países o instituciones gubernamentales/iternacionales a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/343bfcf9-5963-4fed-88f2-cfb4caeca744?raw=true" alt="Sublime's custom image"/>
 </p>
-
-
-)
-![image](https://github.com/user-attachments/assets/343bfcf9-5963-4fed-88f2-cfb4caeca744)
