@@ -12,11 +12,11 @@ Es de este modo que los países o instituciones gubernamentales/internacionales 
 ## Cambio porcentual en la tasa de abandono escolar
 
 [image](https://github.com/user-attachments/assets/a4a45cc7-7433-497f-b5b1-b255628e2c4a)
->>>>>>> ba47c2a3e809ecc5091a886980bc826fe670204c
 
-=======
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/343bfcf9-5963-4fed-88f2-cfb4caeca744?raw=true" alt="Sublime's custom image"/>
 </p>
->>>>>>> 06724c46cf0413bcd4a594ffe8329cc0be55e4c4
+
 
