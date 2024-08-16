@@ -1,7 +1,12 @@
-# Video a considerar 
+# Tasa de Abandono
 
-La falta de dominio de habilidades básicas como lectura, escritura y cálculo son las principales causas de abandono escolar.
+Número de estudiantes del grupo de 3 años a 3ro de bachillerato contabilizados al final de un período escolar que abandonan un determinado grado o curso de estudios, expresado como porcentaje del total de estudiantes matriculados al final del mismo grado o curso de estudios y periodo escolar. 
 
-URL: https://www.youtube.com/watch?v=71znl7fGujQ
+[$\text{TAB}=\tfrac{EstAb_{t,g}}{EstDesc_{t,g}}*100$]
 
-Aunque otros factores como la violencia, la pobreza, el cambio climático, etc. deben ser considerados en la investigación.
+Donde:
+
+- Tab: Tasa de Abandono Escolar
+- $EstAb_{t,g}$: Número de estudiantes que abandonan el grado o curso g en el periodo escolar t.
+- $EstDesc_{t,g}$: Total de estudiantes que registran descomposición de matrícula en el grado o curso g en el periodo escolar t.
+>>>>>>> ba70fce79e5a8c170f00faa98c3771b32d43a70d

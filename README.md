@@ -4,4 +4,5 @@ La educación es un derecho que brinda a las personas herramientas necesarias pa
 
 **¿Cuál es la principal causa de abanono escolar en Ecuador?**
 
--[El no aprendizaje en la escuela](3_Tasa_de_abandono.md)
+-[El no aprendizaje en la escuela](Texto.md)
+
